@@ -1,9 +1,9 @@
 public class HelloWorld
 {
-    private int num = 100;
+    private int num = 1;
 
     public static void main(String[] args) {
-        System.out.println("Howdy World!");
+        System.out.println("Hi World!");
     }
 }
 
